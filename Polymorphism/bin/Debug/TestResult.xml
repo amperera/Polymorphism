@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-08-03" time="21:52:18">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.7905" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Amilaperera\Desktop\NUnit-2.6.3\bin" machine-name="AMILA" user="Amilaperera" user-domain="AMILA" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe" executed="True" result="Success" success="True" time="0.096" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Polymorphism" executed="True" result="Success" success="True" time="0.079" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.050" asserts="0">
+            <results>
+              <test-case name="Polymorphism.TestClass.TestPoly" executed="True" result="Success" success="True" time="0.034" asserts="2" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
